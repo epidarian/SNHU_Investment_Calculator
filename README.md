@@ -19,5 +19,5 @@ The most challenging part was implementing the compound interest calculations an
  + Project Structure: Segmenting code into files and properly dividing modular tasks.
  + Algorithmic Thinking: Coding with a math-forward approach to handling problems.
 
-#Misc
+# Misc
 To ensure maintainability, I adhered to consistent naming conventions and included detailed comments throughout the code. Functions were kept short and focused on a single task, making it easy for others to understand and modify the program. Additionally, I used header files to define interfaces, allowing for adaptability in case new features are added or existing ones are changed in the future.
